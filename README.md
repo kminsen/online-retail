@@ -45,5 +45,5 @@ The RFM analysis notebook (`rfm.ipynb`) performs customer segmentation based on 
 This analysis is commonly used to identify high-value customers and target marketing efforts more effectively.
 
 ## Tableau Visualisation
-[Link to Tableau Public](https://public.tableau.com/shared/RNNSR93PS?:display_count=n&:origin=viz_share_link)
+[Link to Tableau Public](https://public.tableau.com/views/OnlineRetail_17285820679920/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
